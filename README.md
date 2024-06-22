@@ -1,3 +1,17 @@
+#### Working Screenshot.
+
+1) Add Candidate
+   ![Add Canditate](https://github.com/pranjal-pandey1/Blockchain-Voting/assets/145914949/65739a35-f966-4c5e-99e6-368f0c6a5c7e)
+2) Candidate Added.
+   ![Canditate Added](https://github.com/pranjal-pandey1/Blockchain-Voting/assets/145914949/41774425-20d8-4a28-8c3c-b794413a0346)
+3) Regiter User
+   ![RegiterV](https://github.com/pranjal-pandey1/Blockchain-Voting/assets/145914949/c3ba4003-ade3-499f-9400-3be93c09efd2)
+4) Voting.
+   ![V](https://github.com/pranjal-pandey1/Blockchain-Voting/assets/145914949/478c2baa-8dd8-4556-ba0d-efc602875752)
+5) Voted
+   ![voted](https://github.com/pranjal-pandey1/Blockchain-Voting/assets/145914949/dee136b9-4abc-4e35-b331-cb45bdf97a71)
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### Connecting metamask and ganache
