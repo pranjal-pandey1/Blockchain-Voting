@@ -1,3 +1,5 @@
+Designed a secure and transparent e-voting system leveraging blockchain technology. The project involved developing smart contracts for vote recording and verification, ensuring immutability and anonymity. Integrated a MetaMask wallet for user authentication and used Solidity for smart contract deployment, enabling a tamper-proof and decentralized voting process.
+
 #### Working Screenshot.
 
 1) Add Candidate
